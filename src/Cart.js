@@ -12,13 +12,13 @@ const Cart = () => {
         removeItem,
         emptyCart,
     } = useCart();
-    if (isEmpty) return <h1 className="text-center">Your Cart is Empty...</h1>
+    if (isEmpty) return <h1 className="text-center text-white">Your Cart is Empty...</h1>
 
     return (
         <section className="py-4 container">
             <div className="row justify-content-center">
                 <div className="col-12">
-                    <h5>Cart ({totalUniqueItems}) total Items: ({totalItems})</h5>
+                    <h5 className="text-white">Cart ({totalUniqueItems}) total Items: ({totalItems})</h5>
                     <table className="table table-light table-hover m-0">
                         <tbody>
                             {items.map((item, index) => {
@@ -44,7 +44,7 @@ const Cart = () => {
                         </tbody>
                     </table>
                 </div>
-                <div className="col-auto ms-auto">
+                <div className="col-auto ms-auto text-white">
                     <h2>Total Price: $ {cartTotal}</h2>
                 </div>
                 <div className="col-auto">
