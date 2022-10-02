@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Screenshot_1](https://user-images.githubusercontent.com/107684179/193447086-f9615ff7-d958-4cae-baa7-72a5ea61f181.png)
+![Screenshot_2](https://user-images.githubusercontent.com/107684179/193447166-03b72890-7394-46c7-9368-d82fce6e4859.png)
 
 npm react-use-cart
 npm install bootstrap@v5.2.1
