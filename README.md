@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://sushi-app-jasonlim.vercel.app/
+
 ![Screenshot_1](https://user-images.githubusercontent.com/107684179/193457629-ee435be7-17f2-4021-89ab-ecffe47290d2.png)
 
 
